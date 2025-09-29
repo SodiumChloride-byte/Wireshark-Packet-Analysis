@@ -59,7 +59,7 @@ Capture live network packets using Wireshark, identify at least 3 protocols, and
 ## 📁 Deliverables
 - `captures/sample_capture.pcap`
 - `screenshots/` (showing your filters and captures)
-- `report.md` (summary of protocols and details)
+- report.md (summary of protocols and details)
 
 ---
 
