@@ -23,10 +23,7 @@ Capture live network packets using Wireshark, identify at least 3 protocols, and
 
 ### 3. Generate Network Traffic
 - Open a web browser and visit a website.
-- Or, run a simple command in terminal:
-  ```bash
-  ping google.com
-  ```
+  I just visited tryhackme.com
 - Let it run for about a minute.
 
 ### 4. Stop Capture
