@@ -30,9 +30,9 @@ Capture live network packets using Wireshark, identify at least 3 protocols, and
 - Click the **red square** button to stop.
 
 ### 5. Apply Filters
-- HTTP traffic:  
+- HTTPS traffic:  
   ```
-  http
+  https
   ```
 - DNS traffic:  
   ```
