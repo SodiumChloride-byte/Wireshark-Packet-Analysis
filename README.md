@@ -56,15 +56,12 @@ Capture live network packets using Wireshark, identify at least 3 protocols, and
 
 ---
 
-## 📁 Deliverables
-- `captures/sample_capture.pcap`
-- `screenshots/` (showing your filters and captures)
-- report.md (summary of protocols and details)
-
----
-
 ## ✅ Outcome
 By completing this task, you’ll gain:
 - Hands-on packet analysis skills
 - Awareness of network protocols
 - Confidence in using Wireshark for troubleshooting
+
+---
+
+👉 More details: [report.md](./report.md)
