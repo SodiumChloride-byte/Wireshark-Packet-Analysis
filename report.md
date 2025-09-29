@@ -10,6 +10,8 @@ Role: Secure version of HTTP, encrypted with TLS.
 
 In Capture: TLS handshake observed, with possible OCSP certificate checks.
 
+![HTTPS Capture screenshot](HTTPS.png)
+
 2. **DNS**
    
 Typical Ports:
@@ -25,6 +27,8 @@ In Capture:
 DNS Query: A tryhackme.com
 
 DNS Response: 104.26.10.229
+
+![DNS Capture screenshot](DNS.png)
 
 3. **TCP**
 
@@ -47,6 +51,8 @@ In Capture:
 SYN → SYN-ACK → ACK
 
 Data packets exchanged after handshake.
+
+![TCP Capture screenshot](TCP.png)
 
 ## Summary
 The capture contained multiple protocols. HTTP traffic showed web requests, DNS was used to resolve hostnames, and TCP provided reliable data transfer. Together, they represent typical web browsing activity.
