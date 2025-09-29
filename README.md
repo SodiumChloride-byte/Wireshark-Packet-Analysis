@@ -66,19 +66,6 @@ Capture live network packets using Wireshark, identify at least 3 protocols, and
 
 ---
 
-## ❓ Interview Prep
-Some common questions:
-1. What is Wireshark used for?
-2. What is a packet?
-3. How to filter packets in Wireshark?
-4. Difference between TCP and UDP?
-5. What is a DNS query packet?
-6. How can packet capture help in troubleshooting?
-7. What is a protocol?
-8. Can Wireshark decrypt encrypted traffic?
-
----
-
 ## ✅ Outcome
 By completing this task, you’ll gain:
 - Hands-on packet analysis skills
